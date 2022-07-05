@@ -96,3 +96,7 @@ h1 {
 footer p {
     text-align: center;
 }
+
+.ex-intro {
+    text-align: justify;
+}
